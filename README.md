@@ -29,7 +29,6 @@ Passionate about creating efficient, user-centric mobile apps and smart IoT syst
 - 🔵 **WhatsApp Clone** – Real-time chat using Firebase, MVVM, and FCM  
 - 🔵 **Finance Tracker App** – Compose + FastAPI + Room + Firebase  
 - 🔵 **Smart Water Management System** – ESP32, MQTT, Flask  
-- 🔵 **E-commerce App (Jetpack Compose)** – Payment flow, backend API integration
 
 ---
 
