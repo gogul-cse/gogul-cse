@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Gogul
 
-### 🚀 Android Developer | IoT Enthusiast | Full-Stack App Developer (FastAPI + Firebase)
+### 🚀 Full-Stack App Developer | IoT Enthusiast |  Machine Learning
 
 I build modern, scalable Android applications using **Kotlin**, **Jetpack Compose**, **MVVM**, and cloud-backed architectures with **Firebase** and **FastAPI**.  
 Passionate about creating efficient, user-centric mobile apps and smart IoT systems.
